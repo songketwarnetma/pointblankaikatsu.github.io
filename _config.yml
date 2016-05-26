@@ -1,18 +1,20 @@
 # Site settings
-title: Clean Blog
+title: Point Blank By Aikatsu
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+email: songketwarnetma@gmail.com
+copyright_name: Garena 2016
+description: "Main Game Garena Point Blank Indonesia."
+url: "http://pointblankaikatsu.github.io"
+twitter_username: songketwarnetma
+github_username:  songketwarnetma
+facebook_username:  adhy.suryadii
+email_username:  kompiajaib@gmail.com
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: false
 highlighter: rouge
 permalink: pretty
 paginate: 5
