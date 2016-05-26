@@ -1,14 +1,14 @@
 # Site settings
-title: Point Blank By Aikatsu
-header-img: img/home-bg.jpg
+title: Aikatsu Blog
+header-img: img/308131116_orig.jpg
 email: songketwarnetma@gmail.com
-copyright_name: Garena 2016
-description: "Main Game Garena Point Blank Indonesia."
+copyright_name: From BANDAI To Indonesia
+description: "Maharani Collection Ini Aikatsu, Jual Songket dan Lain-Lain."
 url: "http://pointblankaikatsu.github.io"
 twitter_username: songketwarnetma
 github_username:  songketwarnetma
-facebook_username:  adhy.suryadii
-email_username:  kompiajaib@gmail.com
+facebook_username:  maharanitemplatema
+email_username:  songketwarnetma@gmail.com
 
 # Build settings
 markdown: kramdown
